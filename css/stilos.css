@@ -1,4 +1,7 @@
-body{
-    color: red; 
-    text-align: center;   
+#parrafoDos{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: azure;
+    height: 100%;
+    width: auto;
+    background-color:black;
 }
