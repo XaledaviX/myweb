@@ -18,3 +18,11 @@ body{
     height: 100%;
     background-color: aquamarine;
 }
+
+#contenido-footer{
+    color: aliceblue;
+    width: auto;
+    height: 50px;
+    border: 2px solid black;
+    background-color: #646464;
+}
